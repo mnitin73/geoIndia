@@ -1,7 +1,7 @@
 # geoIndia
 Shapefiles and Geojsons of India according to Indians - For use in research and other academic or personal projects by Indians.
 
-##Background
+## Background
 
 I have been doing a lot of research and data analytic work, both personal and professional, which have required a geographic representation. However, I have found it very difficult to get Shapefiles or GeoJSONs representing India in the legally correct representation. I even approached a few government agencies requesting them for the officially recognised border maps. However, I couldn't find any that met my requirement.
 
